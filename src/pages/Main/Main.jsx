@@ -13,9 +13,9 @@ const Main = ({ link, setLink }) => {
             <div className={classes.item_box}>
                 <div>
                     <Link onClick={() => {
-                        setLink('https://themesflat.co/html/educate/images/index/course1.jpg');
+                        setLink('https://img.freepik.com/premium-photo/wooden-bridge-in-blue-lake_104337-8600.jpg');
                     }} to='/posts'>
-                        <img src="https://themesflat.co/html/educate/images/index/course1.jpg" alt="" />
+                        <img src="https://img.freepik.com/premium-photo/wooden-bridge-in-blue-lake_104337-8600.jpg" alt="" />
                     </Link>
                 </div>
 
@@ -74,9 +74,9 @@ const Main = ({ link, setLink }) => {
             <div className={classes.item_box}>
                 <div>
                     <Link onClick={() => {
-                        setLink('https://themesflat.co/html/educate/images/index/course2.jpg')
+                        setLink('https://mirsg.ru/shared/upload/IMAGES/Directions/Island/Iceland%202023/dettifoss-6-wd-marked.jpg')
                     }} to="/posts">
-                        <img src="https://themesflat.co/html/educate/images/index/course2.jpg" alt="" />
+                        <img src="https://mirsg.ru/shared/upload/IMAGES/Directions/Island/Iceland%202023/dettifoss-6-wd-marked.jpg" alt="" />
                     </Link>
 
                 </div>
@@ -136,9 +136,9 @@ const Main = ({ link, setLink }) => {
             <div className={classes.item_box}>
                 <div>
                     <Link onClick={() => {
-                        setLink('https://themesflat.co/html/educate/images/index/course3.jpg')
+                        setLink('https://n1s1.hsmedia.ru/a0/17/09/a01709a2755d58288790e9dca754af8f/600x476_0xac120003_9744553971624420217.jpg')
                     }} to="/posts">
-                        <img src="https://themesflat.co/html/educate/images/index/course3.jpg" alt="" />
+                        <img src="https://n1s1.hsmedia.ru/a0/17/09/a01709a2755d58288790e9dca754af8f/600x476_0xac120003_9744553971624420217.jpg" alt="" />
                     </Link>
 
                 </div>
